@@ -15,10 +15,10 @@ public class Main
 		System.out.println(r);
 		if(s.equalsIgnoreCase(r))
 		{
-		    System.out.println("yes it is");
+		    System.out.println("yes it is palindrome ");
 		}
 		else{
-		    System.out.println("no it is not");
+		    System.out.println("no it is not palindrome ");
 		}
 	}
 }
